@@ -1,8 +1,10 @@
 # Panpharmacon - Robot assistance for disaster management 
 
-* Communication with people is a predicament during natural calamity. Our web based application, `Panpharmacon`, a web application based solution, will concern this issue by attacking it in two phases: 
+### Communication with people is a predicament during natural calamity. Our web based application, `Panpharmacon`, and robot assistance for survivors during earthquake disaster.
 
 1. Before the calamity During and after the calamity With safety being the foremost priority, everyone is naturally bound to own the app and be registered in it with their basic contact and health information. In the first phase, soon after the scientists and environmentalists discover about the aforecoming calamity, Panpharmacon, with the help of government support, will display and send notification publically about the occurrence and whereabouts of the disaster, prone and safe regions, as well as the relief camp facilities that will be established in the meantime. 
+
+![Predicting of earthquake using Machine Learning](https://github.com/aditya-167/Realtime-Earthquake-forecasting)
 
 ## Webapp
 ![](img/Signup.png)
